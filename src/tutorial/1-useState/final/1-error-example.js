@@ -10,7 +10,7 @@ const ErrorExample = () => {
   return (
     <React.Fragment>
       <h2>{title}</h2>
-      <button type='button' className='btn' onClick={handleClick}>
+      <button type='button' className='btn1' onClick={handleClick}>
         change title
       </button>
     </React.Fragment>
