@@ -58,6 +58,7 @@ const ControlledInputs = () => {
               <h4>{firstName}</h4>
               <p>{email}</p>
               <p>{email}</p>
+              <p>{email}</p>
             </div>
           );
         })}
